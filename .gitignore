@@ -1,0 +1,4 @@
+node_modules
+public/uploads/product/*
+public/uploads/review/*
+public/uploads/complaint/*
